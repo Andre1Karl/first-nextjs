@@ -1,0 +1,55 @@
+export const projects = [
+  {
+    title: 'Game 1',
+    description: "Using JavaScript and with HTML/CSS I manage to create a Retro-Like Game.",
+    image: '/images/1.png',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+    source: 'https://github.com/Andre1Karl/game',
+    visit: 'https://andre1karl.github.io/game/',
+    id: 0,
+  },
+  {
+    title: 'Game 2',
+    description:"Using JavaScript and with HTML/CSS I manage to create a Retro-Like Game.",
+    image: '/images/2.png',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+    source: 'https://github.com/Andre1Karl/AirplaneJSTest',
+    visit: 'https://andre1karl.github.io/AirplaneJSTest/',
+    id: 1,
+  },
+  {
+    title: 'POS Application',
+    description: "Using JavaScript and with HTML/CSS I manage to create a POS Application.",
+    image: '/images/3.png',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+    source: 'https://github.com/Andre1Karl/POSTEST',
+    visit: 'https://andre1karl.github.io/POSTEST/',
+    id: 2,
+  },
+  {
+    title: 'Weather API',
+    description: "Using JavaScript,API and with HTML/CSS I manage to create a Weather API Application.",
+    image: '/images/4.png',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+    source: 'https://github.com/Andre1Karl/Weather',
+    visit: 'https://andre1karl.github.io/Weather/',
+    id: 3,
+  },
+  {
+    title: 'A WordPress Website',
+    description: "My First WordPress Website where I create a beautiful website.",
+    image: '/images/5.png',
+    tags: ['WordPress'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 4,
+  },
+];
+
+export const TimeLineData = [
+  { year: 2017, text: 'Started my journey', },
+  { year: 2018, text: 'Worked as a freelance developer', },
+  { year: 2019, text: 'Founded JavaScript Mastery', },
+  { year: 2020, text: 'Shared my projects with the world', },
+  { year: 2021, text: 'Started my own platform', },
+];
